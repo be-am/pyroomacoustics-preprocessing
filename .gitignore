@@ -1,0 +1,22 @@
+__pycache__/
+.vscode/*
+
+# audio files
+*.wav
+*.mp3
+
+
+#model weights
+*.pt
+*.pth
+
+#etc
+*.csv
+*.zip
+*.ttf
+*.json
+*.txt
+
+
+*.png
+*.mp4
